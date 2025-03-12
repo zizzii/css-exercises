@@ -1,0 +1,13 @@
+.section {
+    font-size: 28px;
+    font-family: 'helvetica','Times New Roman', 'sans-serif';
+}
+
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: rgb(255, 255, 0);
+}
